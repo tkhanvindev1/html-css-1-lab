@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}
+h4{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img.pic1 {
+    max-width: 100%;
+
+}
+
+tr{
+    background-color: bisque;
+}
+
+table {
+    background-color: black;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+img {
+    max-width: 100%;
+    
+}
+
+.button{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    max-width: 100%;
+}
+
+.form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.music{
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+
+}
+
+.playlist{
+    font-family: monospace;
+    font-size: small;
+    padding-left: 20px;
+    color:greenyellow ;
+}
